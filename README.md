@@ -40,3 +40,8 @@ NOTION_DB_ID=your_database_id
 TRELLO_KEY=your_trello_key
 TRELLO_TOKEN=your_trello_token
 TRELLO_BOARD_ID=your_board_id
+
+VIDEO Link where i explained Everything 
+
+
+https://drive.google.com/file/d/1Wtj2vkWiWB3TH2ruBlXJQhv7dNDDXVyx/view?usp=drive_link
